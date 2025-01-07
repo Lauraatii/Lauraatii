@@ -33,6 +33,9 @@ From ideas to execution—building seamless user experiences is what I do best!
 🔗 **[FriendsApp](https://github.com/Lauraatii/FriendsApp)**  
 An app to connect friends, built with React Native and Firebase.
 
+**[Booked] (https://github.com/Lauraatii/Booked)
+
+
 🔗 **[Recipe Sharing App](https://github.com/Lauraatii/recipe-sharing-app)**  
 A simple web app to share and explore recipes.  
 
