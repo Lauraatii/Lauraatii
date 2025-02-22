@@ -31,13 +31,15 @@ I love building engaging, robust, and high-quality web and mobile applications t
 **Development & Workflow**  
 ✔️ **UI/UX**  
 ✔️ **Scrum & Agile Development**  
+✔️ **Full-Stack Development (Node.js, Express, Firebase)**
+
 
 ---
 
 ### 📚 Projects I'm Proud Of  
 
 🔗 **[Booked](https://github.com/Lauraatii/Booked.git)**  
-A React Native app designed to simplify social planning. With **group scheduling, event categories, and AI-powered recommendations**, Booked helps users effortlessly plan meetups, trips, and hangouts with friends. Powered by **Firebase** for real-time data and notifications, it ensures smooth collaboration and fun experiences.  
+A full-stack social planning app built with React Native, TypeScript, Node.js, Express, and Firebase. An app designed to simplify social planning. With **group scheduling, event categories, and AI-powered recommendations**, Booked helps users plan meetups, trips, and hangouts with friends effortlessly. Powered by **Firebase** for real-time data and notifications, it ensures smooth collaboration and fun experiences.  
 
 🔗 **[FriendsApp](https://github.com/Lauraatii/FriendsApp)**  
 A React Native and Firebase-powered app that keeps friends connected by enabling easy event planning and group interactions.  
